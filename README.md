@@ -1,32 +1,69 @@
-# 👋 Hi, I'm Md. Jubayer Hossain  
-
-🚀 Passionate **Web Developer** specializing in **MERN Stack**  
-💡 Focused on building fast, modern, and user-friendly web apps  
-
-### 💻 Skills & Tools
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
-- **Version Control:** Git & GitHub
-- **Others:** REST APIs, Authentication, Hosting (Vercel / Netlify)
-
-### 🌱 Currently Learning
-Advanced Node.js, Next.js, and backend optimization  
-
-### 📫 Connect With Me
-[Linkedin](https://www.linkedin.com/in/md-jubayer-hossain-ab425a397/)  | [Email](mailto:jubayer.dev.bd@gmail.com)
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Md. Jubayer Hossain</h1>
+<h3 align="center">💻 Web Developer | MERN Stack Enthusiast | Bangladesh 🇧🇩</h3>
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+### 🚀 About Me
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 I’m learning **Next.js, Firebase, and advanced backend**
+- 💬 Ask me about **React, Express, MongoDB, and REST APIs**
+- 📫 Reach me at **jubayer@example.com**
+- ⚡ Fun fact: I turn coffee ☕ into clean code 💡
 
 ---
 
-![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayerrahman&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerrahman&layout=compact&theme=tokyonight)
+### 🧠 Tech Stack
 
+#### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=jubayerrahman&color=blue)
-![trophy](https://github-profile-trophy.vercel.app/?username=jubayerrahman&theme=onedark)
+### 📊 GitHub Stats
+<div align="center">
+  
+![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
+### 🏆 Achievements & Highlights
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jubayer-bd&theme=onedark&no-frame=true&margin-w=5)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-jubayer-hossain-ab425a397/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jubayer.dev.bd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jubayerdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **“Code. Learn. Build. Repeat.”**
