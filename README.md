@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Jubayer Hossain  
 
-<!--
-**jubayer-bd/Jubayer-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Web Developer** specializing in **MERN Stack**  
+💡 Focused on building fast, modern, and user-friendly web apps  
 
-Here are some ideas to get you started:
+### 💻 Skills & Tools
+- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Version Control:** Git & GitHub
+- **Others:** REST APIs, Authentication, Hosting (Vercel / Netlify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+Advanced Node.js, Next.js, and backend optimization  
+
+### 📫 Connect With Me
+[Linkedin](https://www.linkedin.com/in/md-jubayer-hossain-ab425a397/)  | [Email](jubayer.dev.bd@gmail.com)
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
