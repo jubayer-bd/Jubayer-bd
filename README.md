@@ -59,7 +59,7 @@
   <a href="mailto:jubayer.dev.bd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio-kbqh.vercel.app/#projects" target="_blank">
+  <a href="https://portfolio-kbqh.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
