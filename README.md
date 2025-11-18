@@ -1,8 +1,10 @@
-<!-- Header -->
 <h1 align="center">👋 Hi, I'm Md. Jubayer Hossain</h1>
 <h3 align="center">💻 Web Developer | MERN Stack Enthusiast | Bangladesh 🇧🇩</h3>
-
----
+<div id="user-content-toc">
+  <ul align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Machine+Learning" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **MERN stack projects**
@@ -16,53 +18,58 @@
 ### 🧠 Tech Stack
 
 #### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js)](https://skillicons.dev)
 
 #### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
-#### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ---
+#### 📊 GitHub Stats
 
-### 📊 GitHub Stats
 <div align="center">
-  
-![Jubayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=tokyonight&hide_border=true)
-  
+
+| 📊 GitHub Stats | 🏆 Top Languages |
+| :---: | :---: |
+| <a href="https://github.com/jubayer-bd"><img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/jubayer-bd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+
+<br/>
+
+| 🔥 Commit Streak |
+| :---: |
+| <a href="https://github.com/jubayer-bd"><img src="https://streak-stats.demolab.com?user=jubayer-bd&theme=radical&hide_border=true" alt="streak graph" /></a> |
+
 </div>
 
 ---
 
-### 🏆 Achievements & Highlights
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jubayer-bd&theme=onedark&no-frame=true&margin-w=5)
-
----
-
-### 🌐 Connect with Me
-<p align="center">
+#### 📫 Connect with Me
+<div align="center">
   <a href="https://www.linkedin.com/in/md-jubayer-hossain-ab425a397/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/md.jubayer.hossain.227246" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/jubayer_dev_bd" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:jubayer.dev.bd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-kbqh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  <a href="https://discord.com/users/1440232665721864232" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
+</div>
+
 
 ---
 
