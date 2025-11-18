@@ -33,7 +33,10 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ---
-#### 📊 GitHub Stats
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+--
 
 <div align="center">
 
