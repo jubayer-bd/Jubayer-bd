@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m learning **Next.js, Firebase, and advanced backend**
+- 🌱 I’m learning **Next.js, TypeScript, and advanced backend**
 - 💬 Ask me about **React, Express, MongoDB, and REST APIs**
 - 📫 Reach me at **jubayer.dev.bd@gmail.com**
 - ⚡ Fun fact: I turn coffee ☕ into clean code 💡
