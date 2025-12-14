@@ -48,7 +48,7 @@
 
 #### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,vercel,netlify" /> 
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
 </p>
 
@@ -79,7 +79,7 @@
 
 #### 📫 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-jubayer-hossain-ab425a397/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-jubayer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/md.jubayer.hossain.227246" target="_blank">
