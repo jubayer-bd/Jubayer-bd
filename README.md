@@ -19,7 +19,7 @@
 ### 🧠 Tech Stack
 
 #### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,nextjs)](https://skillicons.dev)
 
 #### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
