@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Company (1).png" alt="Hello world" width="100%" />
+  <img src="./Company (1).png" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Md. Jubayer Hossain</h1>
@@ -61,10 +61,17 @@
 <div align="center">
   
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   </a>
+  
   <a href="https://github.com/jubayer-bd">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/jubayer-bd">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=jubayer-bd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
   <br/><br/>
@@ -74,6 +81,8 @@
   </a>
 
 </div>
+
+
 
 ---
 
@@ -101,4 +110,3 @@
 <div align="center">
 ⭐ <b>“Code. Learn. Build. Repeat.”</b>
 </div>
-
