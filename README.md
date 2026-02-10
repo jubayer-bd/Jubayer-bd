@@ -77,13 +77,13 @@
   <br/><br/>
 
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jubayer-bd&bg_color=0d1117&color=ff69b4&line=bc6c25&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jubayer-bd&bg_color=0d1117&color=ff69b4&line=bc6c25&point=ffffff&area=true&hide_border=true" alt="activity graph" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-profile-trophy.vercel.app/?username=jubayer-bd&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jubayer-bd&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" alt="GitHub Trophy" />
   </a>
 
 </div>
