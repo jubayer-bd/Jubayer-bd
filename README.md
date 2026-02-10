@@ -29,31 +29,44 @@
 
 #### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hot_Toast-F04D22?style=for-the-badge&logo=hotjar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🛠️ Tools & Platforms
+#### 📚 Libraries & Utilities
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,vercel,netlify" /> 
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sweet_Alert-F8BB86?style=for-the-badge&logo=sweetalert2&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hot_Toast-F04D22?style=for-the-badge&logo=hotjar&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </p>
 
-</div>
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman,figma" /> 
+</p>
 
+---
+
+**💬 Soft Skills:** `Problem Solving` • `Effective Communication` • `Quick Learner`
+
+</div>
 ---
 
 ### 📊 GitHub Statistics
