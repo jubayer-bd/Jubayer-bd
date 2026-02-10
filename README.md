@@ -61,11 +61,11 @@
 <div align="center">
   
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   </a>
   
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jubayer-bd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
   </a>
 
   <br/><br/>
@@ -81,9 +81,6 @@
   </a>
 
 </div>
-
-
-
 
 ---
 
