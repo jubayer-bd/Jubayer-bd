@@ -61,11 +61,11 @@
 <div align="center">
   
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jubayer-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="180" alt="stats graph" />
   </a>
   
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer-bd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="180" alt="languages graph" />
   </a>
 
   <br/><br/>
@@ -77,7 +77,13 @@
   <br/><br/>
 
   <a href="https://github.com/jubayer-bd">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jubayer-bd&bg_color=0d1117&color=ff69b4&line=bc6c25&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jubayer-bd&bg_color=0d1117&color=ff69b4&line=bc6c25&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="activity graph" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/jubayer-bd">
+    <img src="https://github-profile-trophy.vercel.app/?username=jubayer-bd&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophy" />
   </a>
 
 </div>
