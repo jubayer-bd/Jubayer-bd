@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./GitHub Banner.png" alt="Banner" width="100%" />
+  <img src="./Banner.png" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Md. Jubayer Hossain</h1>
